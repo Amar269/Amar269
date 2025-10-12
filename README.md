@@ -1,5 +1,5 @@
 # 💫 About Me:
-### 🔭 I’m currently working on  <br>- Research in **Resource Optimization Algorithm in Serverless Computing**   <be> <br> 👯 I’m looking to collaborate on  <br>- Cloud computing & serverless projects <br>- Hackathons & technical events  <br><br> 🤝 I’m looking for   <br>- Exploring **Cloud Simulators** for research  <br>- Optimizing serverless workloads & cost efficiency  <br>   <br><br> 💬 Ask me about  <br>- AWS, GCP, and Cloud   <br>- Serverless Computing  <br>- My **hackathon experiences & cloud projects**  <br> - ServiceNow <br>
+### 🔭 I’m currently working on  <br>- Research in **Resource Optimization Algorithm in Serverless Computing**   <br> <br> 👯 I’m looking to collaborate on  <br>- Cloud computing & serverless projects <br>- Hackathons & technical events  <br><br> 🤝 I’m looking for   <br>- Exploring **Cloud Simulators** for research  <br>- Optimizing serverless workloads & cost efficiency  <br>   <br><br> 💬 Ask me about  <br>- AWS, GCP, and Cloud   <br>- Serverless Computing  <br>- My **hackathon experiences & cloud projects**  <br> - ServiceNow <br>
 
 
 ## 🌐 Socials:
