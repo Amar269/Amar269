@@ -1,7 +1,45 @@
-# 💫 About Me :
-### 🔭 I’m currently working on  <br>- Research in **Resource Optimization Algorithm in Serverless Computing**   <br> <br> 👯 I’m looking to collaborate on  <br>- Cloud computing & serverless projects <br>- Hackathons & technical events  <br><br> 🤝 I’m looking for   <br>- Exploring **Cloud Simulators** for research  <br>- Optimizing serverless workloads & cost efficiency  <br> <br><br> 💬 Ask me about  <br>- AWS, GCP, and Cloud   <br>- Serverless Computing  <br>- My **hackathon experiences & cloud projects**  <br> - ServiceNow <br>
 
+# 👋 About Me
+### 🚀 I'm currently working on
+- ASP.NET Core Web API Development
+- Fundoo Notes Application
+- Redis Caching Integration
+- Docker Containerization
+- RabbitMQ Message Queues
+- SQL Server Database Design
 
+### 🌱 I'm currently learning
+- .NET Full Stack Development
+- Entity Framework Core
+- Microservices Architecture
+- System Design Fundamentals
+- Cloud-Native Application Development
+
+### ☁️ Interested In
+- Cloud Computing
+- Backend Development
+- Distributed Systems
+- Serverless Computing
+- DevOps Practices
+
+### 🤝 Looking to collaborate on
+- ASP.NET Core Projects
+- Open Source Contributions
+- Cloud Computing Projects
+- Full Stack Applications
+
+### 💬 Ask me about
+- C#
+- ASP.NET Core
+- Entity Framework Core
+- SQL Server
+- Redis
+- Docker
+- AWS Cloud
+- ServiceNow
+
+### ⚡ Fun Fact
+I started my journey in Cloud Computing and Serverless Technologies and am now building scalable applications using the .NET ecosystem.
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/amarnath-kolla/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:amarrama269@gmail.com) 
 
