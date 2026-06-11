@@ -1,45 +1,21 @@
-
 # 👋 About Me
-### 🚀 I'm currently working on
-- ASP.NET Core Web API Development
-- Fundoo Notes Application
-- Redis Caching Integration
-- Docker Containerization
-- RabbitMQ Message Queues
-- SQL Server Database Design
 
-### 🌱 I'm currently learning
-- .NET Full Stack Development
-- Entity Framework Core
-- Microservices Architecture
-- System Design Fundamentals
-- Cloud-Native Application Development
+🎓 B.Tech CSE Graduate specializing in Cloud Computing
 
-### ☁️ Interested In
-- Cloud Computing
-- Backend Development
-- Distributed Systems
-- Serverless Computing
-- DevOps Practices
+💻 Currently building backend applications with ASP.NET Core, Entity Framework Core, SQL Server, Redis, Docker, and RabbitMQ.
 
-### 🤝 Looking to collaborate on
-- ASP.NET Core Projects
-- Open Source Contributions
-- Cloud Computing Projects
-- Full Stack Applications
+☁️ AWS Certified Cloud Practitioner with a strong interest in Cloud Computing, Distributed Systems, and Scalable Application Development.
 
-### 💬 Ask me about
-- C#
-- ASP.NET Core
-- Entity Framework Core
-- SQL Server
-- Redis
-- Docker
-- AWS Cloud
-- ServiceNow
+🚀 Currently working on the Fundoo Notes project while exploring modern .NET Full Stack development and backend architecture.
 
-### ⚡ Fun Fact
-I started my journey in Cloud Computing and Serverless Technologies and am now building scalable applications using the .NET ecosystem.
+🤝 Open to collaborating on .NET, Cloud, and Open Source projects.
+
+💬 Ask me about C#, ASP.NET Core, AWS, Redis, Docker, System Design, and Cloud Technologies.
+
+⚡ Fun Fact: I started with Cloud Computing and Serverless Technologies, and now I'm combining that knowledge with .NET to build scalable applications.
+
+
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/amarnath-kolla/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:amarrama269@gmail.com) 
 
